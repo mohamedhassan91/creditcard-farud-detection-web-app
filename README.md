@@ -1,5 +1,5 @@
 # creditcard-farud-detection-web-app
-Sample app detecting fraud transactions of credit card 
+#Sample app detecting fraud transactions of credit card using ML models , Flask ApI amd heroku for deployment 
 ![image](https://user-images.githubusercontent.com/60258264/188268476-b9db4579-eeee-4024-a6b6-0fb5171b478c.png)
 Installation
 link of the data https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
@@ -20,7 +20,7 @@ Randomforest classifier
 
 
 
-# steps to run the project 
+# steps to run the project on your local machine
 
 to use the app follow these steps
 

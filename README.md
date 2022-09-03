@@ -2,7 +2,7 @@
 Sample app detecting fraud transactions of credit card 
 ![image](https://user-images.githubusercontent.com/60258264/188268476-b9db4579-eeee-4024-a6b6-0fb5171b478c.png)
 Installation
-link of the data https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/data
+link of the data https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # Description 
 

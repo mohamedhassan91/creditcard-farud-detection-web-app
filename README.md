@@ -40,4 +40,4 @@ $python app.py
 you will find a message ending with the url like so
 
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
- * Just pass any elemnts from the data provided or any other data 
+ * To test the model Just pass any elemnts from the data provided or any other data and will give you the predection fraud or not fraud 
